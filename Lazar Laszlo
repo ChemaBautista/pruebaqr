@@ -1,0 +1,288 @@
+<html>
+<head>
+<title>LazarSoft</title>
+  <meta name="description" content="Applications made by Lazar Laszlo." />
+  <meta name="keywords" content="software,web,applications, open source, freeware,aes-256,indexer,hash,qrcode,barcode,encryption,search,todo,scanner,dekstop search,onscreen keyboard,backup,executable,dll,analyzer, otp, one time pad, encryption" />
+  <meta name="language" content="English" />
+  <meta name="copyright" content="Lazar Laszlo (c) 2014" />
+  <meta name="Revisit-After" content="1 Days"/>
+  <meta name="robots" content="index, follow"/>
+
+<style type="text/css">
+	body{
+        text-align: center;
+        vertical-align:middle;
+		 
+    }
+    table{
+		margin: 0 auto;
+    }
+    td {
+        text-align: center;
+        font-weight: bold;
+    }
+	h1{
+		color:#b94441;
+	}
+	#main
+	{
+		background: #c9c8c9;
+		background: -webkit-gradient(linear, left top, left bottom, from(#f9f8f9), to(#bfbfbf));
+		background: -moz-linear-gradient(top,  #f9f8f9,  #bfbfbf);
+		width:1024px;
+        overflow: auto;
+        margin: 10px auto;
+		border-top-right-radius: 30px;
+		border-top-left-radius: 30px;
+		border-bottom-right-radius: 30px;
+		border-bottom-left-radius: 30px;
+	}
+    #heading
+    {
+		border-top-right-radius: 30px;
+		border-top-left-radius: 30px;
+        background:#b94441;
+        width:100%;
+        height:140px;
+    }
+    #heading h1
+    {
+        font-size: 55px; 
+        color: #eeedee;
+        font-family:Helvetica;
+    }
+    #heading table{
+        width:100%;
+        height:100%;
+        vertical-align: middle;
+    }
+    #heading p {
+        text-align:left;
+        color: #eeedee;
+        font-family:Helvetica;
+        font-size: 16px;
+        vertical-align:middle;
+    }
+    a:visited {
+        color: #eeedee;
+    }
+    a:link {
+        color: #eeedee;
+    }
+    a{
+        text-decoration:none;
+    }
+    img{
+        border:0;
+
+    }
+    #oss td
+    {
+        text-align:left;
+    }
+    #mail
+    {
+        color: #b94441;
+    }
+    .mainbody{
+        float:left;
+        width:850px;
+    }
+    #side 
+    {
+        float:left;
+        width:174px;
+        background-color:#b94441;
+        color:white;
+    }
+    #side p{
+        text-align:left;
+        margin-left:15px;
+    }
+	#oss{
+		margin:20px;
+	}
+    #oss a{
+        color:black;
+    }
+</style>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+</head>
+<body>
+<div id="main">
+<div id="heading">
+<table border="0">
+<tr><td width="300px">
+<p><h1><a href="http://www.lazarsoft.info">LazarSoft</a><g:plusone size="medium"></g:plusone></h1></p>
+</td>
+<td >
+<p style="text-align:center">Here you can find applications developed by Lazar Laszlo</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="mainbody">
+<h1>Web Applications</h1>
+<table >
+<tr>
+<td><a href="http://www.webqr.com" target="_blank"><img src="webqr.png"/></a></td>
+<td><a href="http://lazarsoft.info/sha.html" target="_blank"><img src="sha.png"/></a></td>
+<td><a href="http://lazarsoft.info/pehdr.html" target="_blank"><img src="pehdr.png"/></a></td>
+<td><a href="http://lazarsoft.info/bin2hex.html" target="_blank"><img src="hexadump.png"/></a></td>
+<td><a href="http://lazarsoft.info/crypter.html" target="_blank"><img src="crypt.png"/></a></td></tr>
+<tr>
+<td>Web QR Code scanner</td>
+<td>Hash a pass</td>
+<td>Executable analyzer</td>
+<td>Hexadump</td>
+<td>Crypter</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/pafahhgpmimhoiglnpehhjpnkkppfpek"><img src="chromews.png" width="160px"/></a></td>
+<td><a href="https://chrome.google.com/webstore/detail/pedgoeoeclfgmaaapiiohimjlgfhfcok"><img src="chromews.png" width="160px"/></a></td>
+<td><a href="https://chrome.google.com/webstore/detail/doibegejkicejompempmpagghnpjoggf"><img src="chromews.png" width="160px"/></a></td>
+<td><a href="https://chrome.google.com/webstore/detail/dalifeakbccibjbchjphnfnpampnjbjp"><img src="chromews.png" width="160px"/></a></td>
+<td></td>
+</tr>
+<tr>
+<td ><a href="http://lazarsoft.info/painter" target="_blank"><img src="painter.png"/></a></td>
+<td ><a href="http://lazarsoft.info/objstl" target="_blank"><img src="objstl.png"/></a></td>
+<td style="padding-top:50px" colspan="3"><a href="http://lazarsoft.info/pkb.html" target="_blank"><img src="pkb.jpg"/></a></td>
+</tr>
+<tr>
+<td >Painter - Coloring book</td>
+<td >WebGL OBJ and STL viewer</td>
+<td colspan="3">Paranoid keyboard</td>
+</tr>
+<tr>
+<td ><a href="http://lazarsoft.info/nrcounter.html" target="_blank"><img src="nrcounter.png"/></a></td>
+<td ><a href="http://lazarsoft.info/solar" target="_blank"><img src="solar.png"/></a></td>
+<td ><a href="http://lazarsoft.info/resize.html" target="_blank"><img src="resize.png"/></a></td>
+<td ><a href="http://lazarsoft.info/compare.html" target="_blank"><img src="compare.png"/></a></td>
+<td ><a href="http://lazarsoft.info/otp.html" target="_blank"><img src="crypt.png"/></a></td>
+</tr>
+<tr>
+<td >Number counter</td>
+<td >Solar panel calculator (incidence angle from location and panel position)</td>
+<td >Image resizer</td>
+<td >Image subtraction</td>
+<td >One Time Pad encryption</td>
+</tr>
+</table>
+<a href="http://www.sourceforge.net/users/lazarl"><h1 >Open Source Applications</h1></a>
+<table  border="0" id="oss">
+<tr>
+<td colspan="3"><p align="center"><a style="border:0;" href="http://www.softpedia.com/developer/Lazar-Laszlo-77429.html"  target="_blank"><img style="border:0;" src="softpedia_free_award_f.gif"/></a>
+<a style="border:0;" href="http://www.softepic.com/publishers/Lazar%20Laszlo/"  target="_blank"><img style="border:0;" src="softepic_5Star.png"/></a>
+<a target="_blank" href="http://www.softoxi.com/show-my-screen.html"><img src="http://www.softoxi.com/images/public/awards/award_star.png" border="0" alt="Show My Screen video tutorial at softoxi.com"></a></p>
+</td></tr>
+<tr><td width="40px"><a href="http://www.miner-mole.com"><img src="minermole.png"/></a></td><td>
+<a href="http://www.miner-mole.com" target="_blank">MinerMole</a></td>
+<td>Miner Mole is an advanced desktop search utility. It collects, parses and stores data about files, folders, users, emails or any other information that can be obtained from a computer, for fast and accurate information retrieval.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/lazarcrypter/"><img src="lazarcrypt.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/lazarcrypter/" target="_blank">Lazar Crypter</a></td>
+<td>Simple file encryption utility with AES-256 for Windows 2000/2003/XP/Vista/7. Beside the standard enc/decryption operations has a Cut/Copy and Paste like interface.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/lazarcopy/"><img src="lcopy.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/lazarcopy/" target="_blank">Lazar Copy</a></td>
+<td>This small utility helps you copy the files and folders you need according to the specified include/exclude filters. It uses the common Copy/Paste mechanism with an additional Paste menu.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/lazarbackup/"><img src="backup.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/lazarbackup/" target="_blank">Lazar Backup</a></td>
+<td>A simple backup utility for MS Windows used through the Send to menu.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/lazarfreezer/"><img src="icon1.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/lazarfreezer/" target="_blank">Lazar Freezer</a></td>
+<td>Portable application to freeze and hide a running application. The frozen application won't use any CPU resources until it's defrosted.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/lazarlookup/"><img src="lookup.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/lazarlookup/" target="_blank">Lazar Lookup</a></td>
+<td>This application allows you to quickly find any data you need in an excel sheet with the specified structure, by using filters. It can be used as agenda, dictionary, quick code lookup etc.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/pumasshare/"><img src="share.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/pumasshare/" target="_blank">PumasShare</a></td>
+<td>Windows share management application. Shares with access rights are saved in database for easy viewing and restore if lost or needed to relocate.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/pumasviewer/"><img src="pumas.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/pumasviewer/" target="_blank">PumasViewer</a></td>
+<td>Image viewer with minimal user interface and advanced capabilities. Shows the image floating on the screen without any border.</td>
+</tr>
+<tr><td width="40px"><a href="http://sourceforge.net/projects/showmyscreen/"><img src="showscreen.png"/></a></td><td>
+<a href="http://sourceforge.net/projects/showmyscreen/" target="_blank">ShowMyScreen</a></td>
+<td>Simple and portable screen sharing utility. No software required for the client as the shared screen is displayed through a password-protected web page in any browser.</td>
+</tr>
+</table>
+<h1>Other Applications</h1>
+<table  border="0" id="oss">
+<tr><td width="40px"><a href="http://lazarsoft.info/2do"><img src="todo.png"/></a></td><td>
+<a href="http://lazarsoft.info/2do" target="_blank">Lazar ToDo</a></td>
+<td colspan="2">A simple to-do manager with online syncing and web access for MS Windows operating systems.</td></tr>
+<tr><td width="40px"><a href="http://lazarsoft.info/download/xTheEye.exe"><img src="xTheEye.png"/></a></td><td>
+<a href="http://lazarsoft.info/download/xTheEye.exe">xTheEye</a></td>
+<td colspan="2">A simple utility (for MS Windows) to prevent eye strain by signaling you periodically to relax your eyes. The utility will dim the screen for 5 seconds at a preset period. A simple eye exercise is the 20-20-20 rule, which requires a 20-second break every 20 minutes, in which you have to look at a 20-meter distance.</td></tr>
+<tr><td width="40px"><a href="http://lazarsoft.info/download/FileRobot.zip"><img src="robot.png"/></a></td><td>
+<a href="http://lazarsoft.info/download/FileRobot.zip">FileRobot</a></td>
+<td>Simple, graphically programable file operation robot: filtering, statistics, copy/move, delete, compression. See tutorial on youtube. </td>
+<td><a href="http://youtu.be/KyMLWE6fjd8" target="_blank"><img style="border:0;" src="youtube.png" width="128"/></a></td>
+</tr>
+</table>
+</div>
+<div id="side">
+<iframe src="http://rcm.amazon.com/e/cm?t=minmol-20&o=1&p=21&l=ur1&category=computers_accesories&banner=0J60ZQMV56BYBZTWDY02&f=ifr" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br>
+<h3>News</h3>
+<p><b>2014-06-17</b></p>
+<p>Added One Time Pad encryption.</p>
+<p><b>2014-05-29</b></p>
+<p>Added image resizer and subtraction.</p>
+<p><b>2014-01-06</b></p>
+<p>Added number counter and solar panel calculator.</p>
+<p><b>2013-06-12</b></p>
+<p>Crypter updated (fixed to work with latest browsers).</p>
+<p><b>2012-11-15</b></p>
+<p>FileRobot updated.</p>
+<p><b>2012-03-12</b></p>
+<p>Executable analyzer updated.</p>
+<p><b>2012-03-05</b></p>
+<p>Added WebGL OBJ and STL viewer.</p>
+<p><b>2012-01-29</b></p>
+<p>Added a bookmarklet to the paranoid keyboard.</p>
+<p><b>2012-01-15</b></p>
+<p>Added Painter coloring book web app.</p>
+<p><b>2011-11-29</b></p>
+<p>Crypter web app updated</p>
+<p><b>2011-11-04</b></p>
+<p>Crypter web app updated to work with UNICODE characters</p>
+<p><b>2011-08-19</b></p>
+<p>Added links to chrome web store</p>
+<p><b>2011-07-08</b></p>
+<p>Applications added:<br> Lazar ToDo and xTheEye</p>
+<p><b>2011-06-27</b></p>
+<p>Web QR Code scanner added.</p>
+<p><b>2011-06-19</b></p>
+<p>Web site updated.</p>
+<br>
+<h3>Contact me</h3>
+<p><a href="mailto:lazarsoft@gmail.com">lazarsoft@gmail.com</a></p>
+<p><a href="http://myaps.blogspot.com">blog</a></p>
+<br>
+</div>
+</div>
+<h5 >www.lazarsoft.info Copyright © 2011 <a id="mail" href="mailto:lazarsoft@gmail.com">Lazar Laszlo</a></h5>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28275967-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
